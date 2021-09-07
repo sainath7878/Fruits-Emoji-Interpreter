@@ -10,7 +10,14 @@ var emojiDictionary = {
   "🍌": "Banana",
   "🍍": "Pineapple",
   "🥭": "Mango",
-  "🍎": "Red Apple"
+  "🍎": "Red Apple",
+  "🍏": "Green Apple",
+  "🍐": "Pear",
+  "🍑": "Peach",
+  "🍒": "Cherries",
+  "🍓": "Strawberry",
+  "🥝": "Kiwi Fruit",
+  "🍅": "Tomato"
 };
 
 export default function App() {
